@@ -1,0 +1,1 @@
+import{m as r,u as o}from"./useRender-926a478b.js";import{l as n,v as m,m as c}from"./index-bc405bf9.js";const p=n()({name:"VCardActions",props:r(),setup(t,s){let{slots:e}=s;return m({VBtn:{variant:"text"}}),o(()=>{var a;return c("div",{class:["v-card-actions",t.class],style:t.style},[(a=e.default)==null?void 0:a.call(e)])}),{}}});export{p as V};

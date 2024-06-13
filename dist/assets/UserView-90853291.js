@@ -1,0 +1,1 @@
+import{u as r}from"./app-09add99f.js";import{_ as s}from"./_plugin-vue_export-helper-c27b6911.js";import{D as t,H as o,K as a}from"./index-bc405bf9.js";const n={methods:{},computed:{userStore(){return r()}}};function c(u,m,p,_,f,e){return t(),o("h2",null,a(e.userStore.username)+"'s user Page",1)}const S=s(n,[["render",c]]);export{S as default};
